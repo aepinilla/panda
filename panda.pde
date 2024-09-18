@@ -1,7 +1,8 @@
+int imgSize = 1024 * 683;
 PImage panda;
 
 void setup() {
-  size(800, 800);
+  size(1024, 800);
   panda = loadImage("panda.jpg");
   
   panda.loadPixels();
@@ -16,7 +17,7 @@ void draw() {
   //tint(250, 0, 100);
   //image(panda, mouseX, mouseY, panda.width/5, panda.height/5);
   
-  //background(panda.pixels[int(random(0, 100000))]);
+  //background(panda.pixels[int(random(0, imgSize))]);
   
   // Reconstruyendo los circulos
   for (int j = 0; j < panda.height; j++) { 
