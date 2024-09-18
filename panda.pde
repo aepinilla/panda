@@ -2,7 +2,7 @@ PImage panda;
 
 void setup() {
   size(800, 800);
-  panda = loadImage("Grosser_Panda.JPG");
+  panda = loadImage("panda.jpg");
 }
 
 void draw() {
