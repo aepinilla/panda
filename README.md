@@ -8,3 +8,5 @@ Es parte del contenido de la asignatura Pensamiento Algorítmico, del programa d
 3. Descargar una imagen de un panda en formato JPG y cambiar el nombre del archivo a "panda.jpg".
 4. Ir a Sketch -> Add file. Cargar el archivo JPG.
 5. Correr el programa en Processing
+
+Ejemplo original por Jaime Patarroyo.
