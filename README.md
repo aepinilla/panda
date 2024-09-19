@@ -1,4 +1,6 @@
-Este es un ejemplo que muestra como cargar imagenes en Processing, creado por Jaime Patarroyo (Universidad de los Andes).
+Este es un ejemplo que muestra como cargar imagenes en Processing.
+
+Es parte del contenido de la asignatura Pensamiento Algorítmico, del programa de Diseño de la Universidad de los Andes.
 
 # Instrucciones
 1. Clonar este repositorio
